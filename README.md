@@ -1,4 +1,4 @@
-<img src="" alt="Header" width="1900" height="350">
+<img src="https://github.com/Lemacoder/Lemacoder/blob/main/assets/header.gif" alt="Header" width="1900" height="350">
 
 # <p align="center"> Всем привет, меня зовут Настя! :sparkles: </p>
 
