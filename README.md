@@ -33,4 +33,8 @@
 | Название курса |Сертификат|
 | --- | --- |
 | ["Поколение Python": курс для начинающих.](https://stepik.org/course/58852/info)| [Сертификат с отличием](https://stepik.org/cert/2374639) |
-| | |
+| [Основы программирования на С. Задачи](https://stepik.org/course/3078/info) | [Сертификат с отличием](https://stepik.org/cert/2520565)|
+
+## Как связаться со мной 
+
+- Email: ladygin.anastasia@yandex.ru 
