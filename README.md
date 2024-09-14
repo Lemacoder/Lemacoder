@@ -26,6 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
+![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=0300ff4a)
 
 
 ## :notebook: Пройденные курсы 
