@@ -27,7 +27,9 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
 ![Linux](https://img.shields.io/badge/Linux_Mint-090909?style=for-the-badge&logo=linux-mint&logoColor=0300ff4a)
+![Mac Os](https://img.shields.io/badge/mac-090909?style=for-the-badge&logo=apple&logoColor=0300ff4a)
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Lemacoder}&theme=blue-green)
 
 ## :notebook: Пройденные курсы 
 
