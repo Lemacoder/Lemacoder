@@ -2,10 +2,6 @@
 
 # <p align="center"> Всем привет, меня зовут Настя! :sparkles: </p>
 
-<p align="center">
-  <img src ="https://github.com/Lemacoder/Lemacoder/blob/main/assets/sticker.webp" alt="Sticker" width="150" height="150">
-  
-</p>
 
 ## Обо мне 
 
