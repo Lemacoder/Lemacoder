@@ -18,13 +18,15 @@
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442)
 
 #### Frontend 
+
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js&logoColor=white)
 
+<a href="">Проекты</a>
 
 
 
