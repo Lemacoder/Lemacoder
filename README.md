@@ -4,9 +4,7 @@
 
 <p align="center">
   <img src ="https://github.com/Lemacoder/Lemacoder/blob/main/assets/sticker.webp" alt="Sticker" width="150" height="150">
-  <a href="https://t.me/Lemacoder">
-    <img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=33b7fa" alt="Telegram">
-  </a>
+  
 </p>
 
 ## Обо мне 
