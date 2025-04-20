@@ -20,8 +20,6 @@
 #### Frontend 
 
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) для разработки, но так же владею ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) и ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB).
-
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,18 +32,25 @@
 #### Backend 
 
 
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) 
+Фреймворки:
+Django и Django Rest Api
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) 
+Spring Boot
+![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
+
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
-
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-090909?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)
 
+Работала на операционных системах:
 ![Linux](https://img.shields.io/badge/Linux_Mint-090909?style=for-the-badge&logo=linux-mint&logoColor=0300ff4a)
 ![Mac Os](https://img.shields.io/badge/mac-090909?style=for-the-badge&logo=apple&logoColor=0300ff4a)
-
+![Windows](https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
