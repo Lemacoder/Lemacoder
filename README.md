@@ -15,7 +15,7 @@
 
 ### Разработка:
 
-Примущественно исполльзую `Python` для разработки, но так же владею `Java` и `C`.
+В своей работе преимущественно использую `Python`, обладаю уверенными знаниями и опытом разработки на `Java` и `C`.
 
 #### Frontend 
 
@@ -32,13 +32,13 @@
 #### Backend 
 
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) 
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) с использованием фреймвоков
 
-Фреймворки:
-
-Django и Django Rest Api
+![Django/Django Rest Api](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) 
+
+Фреймворк:
 
 Spring Boot
 
@@ -83,7 +83,3 @@ Spring Boot
 
 - Email: ladygin.anastasia@yandex.ru 
 
-
-
-
-![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
