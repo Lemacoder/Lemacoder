@@ -15,9 +15,12 @@
 
 ### Разработка:
 
-Примущественно исполльзую ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) для разработки, но так же владею ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) и ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB).
+Примущественно исполльзую `Python` для разработки, но так же владею `Java` и `C`.
 
 #### Frontend 
+
+
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) для разработки, но так же владею ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) и ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB).
 
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
