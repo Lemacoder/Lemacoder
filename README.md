@@ -15,7 +15,7 @@
 
 ### Разработка:
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442)
+Примущественно исполльзую ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) для разработки, но так же владею ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) и ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB).
 
 #### Frontend 
 
@@ -30,7 +30,7 @@
 
 #### Backend 
 
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB)
+
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
 
