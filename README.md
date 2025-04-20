@@ -26,17 +26,27 @@
 ![React](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href="">Проекты</a>
+<a href="https://github.com/Lemacoder/Frontend">Проекты</a>
 
-
+#### Backend 
 
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
+
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
+
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-090909?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux_Mint-090909?style=for-the-badge&logo=linux-mint&logoColor=0300ff4a)
 ![Mac Os](https://img.shields.io/badge/mac-090909?style=for-the-badge&logo=apple&logoColor=0300ff4a)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemacoder&theme=blue-green)
+
+
+
+
 ### Аналитика данных: 
 
 
@@ -44,6 +54,9 @@
 ### Искусственный интеллект: 
 
 
+
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemacoder&theme=blue-green)
 
 ## :notebook: Пройденные курсы 
 
