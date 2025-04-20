@@ -33,19 +33,25 @@
 
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) 
+
 Фреймворки:
+
 Django и Django Rest Api
+
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) 
+
 Spring Boot
+
 ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 
-
+![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=0300ff4a)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-090909?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-090909?&style=for-the-badge&logo=redis&logoColor=white)
 
 Работала на операционных системах:
 ![Linux](https://img.shields.io/badge/Linux_Mint-090909?style=for-the-badge&logo=linux-mint&logoColor=0300ff4a)
@@ -57,7 +63,7 @@ Spring Boot
 
 ### Аналитика данных: 
 
-
+![Power BI]
 
 ### Искусственный интеллект: 
 
