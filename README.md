@@ -32,7 +32,7 @@
 ### Сделанные проекты: 
 
 1. <a href="https://github.com/Lemacoder/Start_Learning"> Научиться учиться </a>
-2. <a hreg="https://github.com/Lemacoder/Traveling_in_Russia">Путешествия по России</a>
+2. <a hreg="https://github.com/Lemacoder/Traveling_in_Russia"> Путешествия по России </a>
 3. <a href="https://github.com/Lemacoder/Mesto"> Mesto </a>
 
 #### Backend 
