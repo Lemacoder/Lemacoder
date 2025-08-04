@@ -5,7 +5,7 @@
 
 ## Обо мне 
 
-:mortar_board: Я студентка 3 курса факультета инженерии данных Финансового университета при Правительстве Российской Федерации
+:mortar_board: Я студентка 4 курса факультета инженерии данных Финансового университета при Правительстве Российской Федерации
 
 :computer: В данный момент я активно изучаю языки C и Python, углубляя свои знания и практические навыки в области разработки, искусственного интеллекта и анализа данных.  
 
@@ -15,19 +15,25 @@
 
 ### Разработка:
 
-В своей работе преимущественно использую `Python`, обладаю уверенными знаниями и опытом разработки на `Java` и `C`.
+В своей работе преимущественно использую `Python`, обладаю уверенными знаниями и опытом разработки на `C`.
 
 #### Frontend 
 
+Я проходила курс от Яндекс Практикума "Ассоциированные программы: фронтенд-разработчик".
 
-![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
+В данном курсе я изучила следующие технологии:
+
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=5B69BB)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React3&logoColor=5B69BB)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href="https://github.com/Lemacoder/Frontend">Проекты</a>
+### Сделанные проекты: 
+
+1. <a href="https://github.com/Lemacoder/Start_Learning"> Научиться учиться </a>
+2. <a hreg="https://github.com/Lemacoder/Traveling_in_Russia">Путешествия по России</a>
+3. <a href="https://github.com/Lemacoder/Mesto"> Mesto </a>
 
 #### Backend 
 
