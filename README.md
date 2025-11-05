@@ -9,7 +9,7 @@
 
 :computer: В данный момент я активно изучаю языки C и Python, углубляя свои знания и практические навыки в области разработки, искусственного интеллекта и анализа данных.  
 
-:school: Кроме того, я проходила интенсив в Школе 21 — инновационном образовательном проекте. В этой школе я смогла погрузиться в практическое обучение сотрудничая с талантливыми единомышленниками.
+:school: Кроме того, я являюсь участником основного обучения в Школе 21 — инновационном образовательном проекте. В этой школе я смогла погрузиться в практическое обучение сотрудничая с талантливыми единомышленниками.
 
 ## :space_invader: Технологии и инструменты
 
@@ -37,16 +37,13 @@
 
 #### Backend 
 
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) 
+![Django/Django Rest Api](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=white) 
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=fee442) с использованием фреймвоков
 
-![Django/Django Rest Api](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=5B69BB) 
-
-Фреймворк:
-
-Spring Boot
+![Spring Boot](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=spring&logoColor=5B69BB)
 
 ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
 
@@ -69,7 +66,6 @@ Spring Boot
 
 ### Аналитика данных: 
 
-![Power BI]
 
 ### Искусственный интеллект: 
 
